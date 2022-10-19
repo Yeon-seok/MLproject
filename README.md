@@ -5,5 +5,6 @@ data set
  
 you need to download datasets
 
+Please read the document for more information final report team 9
 
 VGG vs ResNet vs CNN
